@@ -1,0 +1,5 @@
+D:\Internal\drawRect\bin\drawRect.dll
+D:\Internal\drawRect\bin\drawRect.pdb
+D:\Internal\drawRect\obj\Debug\drawRect.csprojResolveAssemblyReference.cache
+D:\Internal\drawRect\obj\Debug\drawRect.dll
+D:\Internal\drawRect\obj\Debug\drawRect.pdb
